@@ -1,1 +1,1 @@
-# Kaggle_note
+캐글 필사 study를 위한 공간입니다:)
